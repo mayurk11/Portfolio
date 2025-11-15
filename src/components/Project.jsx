@@ -1,5 +1,5 @@
 import React from "react";
-import { PROJECTS } from "../constrants";
+import { PROJECTS } from "../constants";
 import { delay, motion } from "framer-motion";
 
 const Project = () => {

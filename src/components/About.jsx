@@ -1,5 +1,5 @@
 import React from "react";
-import { About_Me } from "../constrants";
+import { About_Me } from "../constants";
 import { motion } from "framer-motion";
 
 const Container1 = (delay) => ({

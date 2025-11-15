@@ -1,5 +1,5 @@
 import React from "react";
-import { CONTACT } from "../constrants";
+import { CONTACT } from "../constants";
 import { delay, motion } from "framer-motion";
  
 const Contact = () => {

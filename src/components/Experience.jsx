@@ -1,5 +1,5 @@
 import React from "react";
-import { EXPERIENCE } from "../constrants";
+import { EXPERIENCE } from "../constants";
 import { delay, motion } from "framer-motion";
 
 

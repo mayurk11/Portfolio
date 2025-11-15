@@ -1,5 +1,5 @@
 import React from "react";
-import { Hero_Content } from "../constrants";
+import { Hero_Content } from "../constants";
 import DP from "../assets/DP.jpg";
 import { delay, motion } from "framer-motion";
 
