@@ -1,6 +1,6 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
+import project1 from "../assets/Projects/project-1.jpg";
+import project2 from "../assets/Projects/project-2.jpg";
+import project3 from "../assets/Projects/project-3.jpg";
 
 export const Hero_Content = `I am an AI & Full Stack Developer with strong expertise in Machine Learning, along with hands-on experience in developing scalable and interactive web applications. Skilled in Python, Django, Node.js/Express.js, PHP, SQL, and modern front-end technologies, I build intelligent, user-focused solutions that combine AI capabilities with practical software engineering. I have worked on impactful projects such as infant cry classification, automated portfolio generation, and full CRUD-based student management systems. With a strong foundation in AI, data science, and full-stack development, I am passionate about creating innovative, secure, and data-driven applications that solve real-world problems. `;
 
